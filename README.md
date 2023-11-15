@@ -1,4 +1,4 @@
-This project is an example of how [Nuxt 3](https://nuxt.com/) can be used for presenting academic work in this example a master thesis.
+This project is an example of how [Nuxt 3](https://nuxt.com/) can be used for presenting academic work, in this example a master thesis.
 
 Modules used are:
 -[content](https://nuxt.com/modules/content) - reads the    content/ directory in the project, and creates a powerful data layer for your application
