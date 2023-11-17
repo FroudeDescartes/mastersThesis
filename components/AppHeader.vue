@@ -1,6 +1,6 @@
 <template>
     <nav class="sticky top-0">
-        <NuxtLink to="/index">
+        <NuxtLink to="/">
             Home
         </NuxtLink>
         <NuxtLink to="/about">
