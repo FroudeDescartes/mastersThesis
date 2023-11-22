@@ -22,6 +22,29 @@ Make sure to install the dependencies:
 npm install
 ```
 
+## Install modules
+
+- Content Module
+
+```bash
+# npm
+npm install @nuxt/content
+```
+
+- UI Module
+
+```bash
+# npm
+npm install @nuxt/ui
+```
+
+- Google-Fonts Module
+
+```bash
+# npm
+npm i -D @nuxtjs/google-fonts
+```
+
 ## Development Server
 
 Start the development server on `http://localhost:3000`:
